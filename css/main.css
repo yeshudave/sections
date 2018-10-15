@@ -1,11 +1,11 @@
 html {
   background-color: #eee9de;
   box-sizing: border-box;
+  font-family: "Lato", sans-serif;
 }
 
 body {
   line-height: 1.5;
-  font-family: "Lato", sans-serif;
   margin: 0;
 }
 
